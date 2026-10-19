@@ -1,6 +1,6 @@
 # Omid Rezahosseini, MD, PhD
 
-Physician and clinical researcher specializing in infectious diseases, clinical epidemiology, and vaccine research.
+Medical doctor and clinical researcher specializing in infectious diseases, clinical epidemiology, and vaccine research.
 
 My current focus is **Clinical AI Evaluation and Patient Safety**, particularly assessing the clinical accuracy, safety, and evidence reliability of AI-generated medical responses.
 
